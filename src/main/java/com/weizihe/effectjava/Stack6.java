@@ -1,6 +1,5 @@
 package com.weizihe.effectjava;
 
-import javax.jws.Oneway;
 import java.util.Arrays;
 import java.util.Date;
 
